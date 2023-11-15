@@ -1,0 +1,17 @@
+# Ignore artifacts:
+build
+coverage
+assets
+node_modules
+public
+scripts
+# configs
+.husky
+.nginx
+.vscode
+config
+# Ignore all HTML files:
+*.html
+*.scss
+*.css
+*.json
